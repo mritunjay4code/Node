@@ -1,0 +1,16 @@
+{
+  "name": "writenpmpaket",
+  "version": "1.0.1",
+  "description": "calc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node coller.js",
+    "mritunjay": "node coller.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mritunjay",
+  "license": "ISC",
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
