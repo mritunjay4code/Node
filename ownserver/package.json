@@ -1,0 +1,12 @@
+{
+  "name": "ownserver",
+  "version": "1.0.0",
+  "description": "write ownserver",
+  "main": "iundex.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mritunjay",
+  "license": "ISC"
+}
